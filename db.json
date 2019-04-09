@@ -1,0 +1,36 @@
+{
+  "rooms": [
+    {
+      "id": "3jf09aj390wk3f09ka09fkasf",
+      "name": "Room 1",
+      "adults": "1",
+      "children": "0",
+      "enabled": true,
+      "alwaysOn": true
+    },
+    {
+      "id": "smdimaseifjfasj09fk9asdf09asdf",
+      "name": "Room 2",
+      "adults": "1",
+      "children": "0",
+      "enabled": false,
+      "alwaysOn": false
+    },
+    {
+      "id": "wer93ir09ksf90askdf90askdf90aksdf09aksd0f9k",
+      "name": "Room 3",
+      "adults": "1",
+      "children": "0",
+      "enabled": false,
+      "alwaysOn": false
+    },
+    {
+      "id": "gk490kf9034kf90kw90kef90sdkf90sadkf90ksadf09",
+      "name": "Room 4",
+      "adults": "1",
+      "children": "0",
+      "enabled": false,
+      "alwaysOn": false
+    }
+  ]
+}
